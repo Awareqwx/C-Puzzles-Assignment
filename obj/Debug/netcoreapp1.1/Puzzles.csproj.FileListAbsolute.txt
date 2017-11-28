@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\bin\Debug\netcoreapp1.1\Puzzles.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\bin\Debug\netcoreapp1.1\Puzzles.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\bin\Debug\netcoreapp1.1\Puzzles.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\bin\Debug\netcoreapp1.1\Puzzles.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\bin\Debug\netcoreapp1.1\Puzzles.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\obj\Debug\netcoreapp1.1\Puzzles.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\obj\Debug\netcoreapp1.1\Puzzles.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Puzzles\obj\Debug\netcoreapp1.1\Puzzles.pdb
